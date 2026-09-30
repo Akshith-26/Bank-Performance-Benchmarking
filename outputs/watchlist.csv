@@ -111,8 +111,8 @@ Nelnet Bank,UT,1: $1-10B Community/Regional,3.0,1.2318014790005425,2.17272477988
 "NEXTIER BANK, NATIONAL ASSOCIATION",PA,1: $1-10B Community/Regional,2.93,1.3826449688980076,1.4867376781896502,0.509,9.638438431746414,1,Noncurrent loans >2x peers
 Wayne Bank,PA,1: $1-10B Community/Regional,2.91,0.966731051064962,1.2089152862202837,0.509,8.822242691764744,1,Noncurrent loans >2x peers
 West Texas National Bank,TX,1: $1-10B Community/Regional,2.88,1.5906120755689406,1.6713684391604418,0.509,10.51586320531049,1,Noncurrent loans >2x peers
-BayCoast Bank,MA,1: $1-10B Community/Regional,2.86,0.5090433189373119,1.4542108499559825,0.509,8.291879818761434,1,Noncurrent loans >2x peers
 "Industrial and Commercial Bank of China USA, National Association",NY,1: $1-10B Community/Regional,2.86,0.6656889350773629,4.20456752393268,0.509,17.255383005109827,1,Noncurrent loans >2x peers
+BayCoast Bank,MA,1: $1-10B Community/Regional,2.86,0.5090433189373119,1.4542108499559825,0.509,8.291879818761434,1,Noncurrent loans >2x peers
 American Momentum Bank,TX,1: $1-10B Community/Regional,2.85,1.2732446365074774,3.519053794823173,0.509,19.241801210247537,1,Noncurrent loans >2x peers
 Orange Bank & Trust Company,NY,1: $1-10B Community/Regional,2.79,1.8847482211638387,1.1205478008527472,0.509,13.152686090096562,1,Noncurrent loans >2x peers
 "Sunrise Banks, National Association",SD,1: $1-10B Community/Regional,2.78,0.34800175932198324,1.3421150808191622,0.509,10.182736539201978,1,Noncurrent loans >2x peers
@@ -125,28 +125,28 @@ CalPrivate Bank,CA,1: $1-10B Community/Regional,2.71,2.0216996263938407,1.261062
 Interaudi Bank,NY,1: $1-10B Community/Regional,2.68,1.236178880406965,2.356109814610604,0.509,10.021664158353346,1,Noncurrent loans >2x peers
 "INB, National Association",IL,1: $1-10B Community/Regional,2.68,1.1987131905714554,1.099035683831668,0.509,9.443239924183787,1,Noncurrent loans >2x peers
 Republic Bank of Chicago,IL,1: $1-10B Community/Regional,2.61,1.3563013676184859,1.2727339955533927,0.509,12.573909949600507,1,Noncurrent loans >2x peers
+Dedham Institution for Savings,MA,1: $1-10B Community/Regional,2.6,0.8805319205415725,1.1513680082173872,0.509,11.394831628704772,1,Noncurrent loans >2x peers
 Fidelity Bank & Trust,IA,1: $1-10B Community/Regional,2.6,1.2992572762209653,1.2621218336285374,0.509,8.977787431003502,1,Noncurrent loans >2x peers
 KS StateBank,KS,1: $1-10B Community/Regional,2.6,1.9490157175471978,2.493799528159216,0.509,12.965242975474132,1,Noncurrent loans >2x peers
-Dedham Institution for Savings,MA,1: $1-10B Community/Regional,2.6,0.8805319205415725,1.1513680082173872,0.509,11.394831628704772,1,Noncurrent loans >2x peers
-"Wells Fargo Bank South Central, National Association",TX,1: $1-10B Community/Regional,2.59,1.6215375960442358,1.2381476180094837,0.509,29.691711199216336,1,Noncurrent loans >2x peers
 State Bank of Texas,TX,1: $1-10B Community/Regional,2.59,4.240736806108307,2.1552940637128097,0.509,15.705473024221911,1,Noncurrent loans >2x peers
+"Wells Fargo Bank South Central, National Association",TX,1: $1-10B Community/Regional,2.59,1.6215375960442358,1.2381476180094837,0.509,29.691711199216336,1,Noncurrent loans >2x peers
 Meridian Bank,PA,1: $1-10B Community/Regional,2.59,0.7596426788268854,3.675573565213653,0.509,9.722628944161864,1,Noncurrent loans >2x peers
 Community National Bank,TX,1: $1-10B Community/Regional,2.54,2.103291233172963,1.6593663115380883,0.509,12.682601145198843,1,Noncurrent loans >2x peers
 Bank Five Nine,WI,1: $1-10B Community/Regional,2.53,1.3203423900975986,1.9124837471484517,0.509,9.770177578191737,1,Noncurrent loans >2x peers
-Somerset Trust Company,PA,1: $1-10B Community/Regional,2.47,1.1575291441789477,1.4948125956239051,0.509,9.10059687944439,1,Noncurrent loans >2x peers
 "Newtek Bank, National Association",FL,1: $1-10B Community/Regional,2.47,4.402542597877482,7.1856634893142255,0.509,8.610542311625865,1,Noncurrent loans >2x peers
+Somerset Trust Company,PA,1: $1-10B Community/Regional,2.47,1.1575291441789477,1.4948125956239051,0.509,9.10059687944439,1,Noncurrent loans >2x peers
 "Credit One Bank, National Association",NV,1: $1-10B Community/Regional,2.44,25.34635181167293,3.185471942032039,0.509,28.172881508763897,1,Noncurrent loans >2x peers
 Allied Irish Banks,NY,1: $1-10B Community/Regional,2.43,0.0,0.0,0.509,0.0,1,Leverage ratio <5%
 First Western Bank & Trust,ND,1: $1-10B Community/Regional,2.39,0.9635180762579264,1.4248488551783394,0.509,9.614504359669501,1,Noncurrent loans >2x peers
 "Pibank, National Association",FL,1: $1-10B Community/Regional,2.37,-0.48513795216638245,0.12767902648683013,0.509,9.710168242974353,1,Negative ROA
 Bank Iowa,IA,1: $1-10B Community/Regional,2.35,1.3014668389134283,1.3761166652197045,0.509,8.937143620096602,1,Noncurrent loans >2x peers
-The Bank of Commerce,ID,1: $1-10B Community/Regional,2.34,2.1294229970337226,1.3477755367028665,0.509,15.69355733030755,1,Noncurrent loans >2x peers
-First Bank of the Lake,MO,1: $1-10B Community/Regional,2.34,0.8303325529933406,3.699320495437402,0.509,7.083360361621424,1,Noncurrent loans >2x peers
 Farmers and Merchants Trust Company of Chambersburg,PA,1: $1-10B Community/Regional,2.34,1.26508929370285,1.0989726146263579,0.509,8.82992731441498,1,Noncurrent loans >2x peers
+First Bank of the Lake,MO,1: $1-10B Community/Regional,2.34,0.8303325529933406,3.699320495437402,0.509,7.083360361621424,1,Noncurrent loans >2x peers
+The Bank of Commerce,ID,1: $1-10B Community/Regional,2.34,2.1294229970337226,1.3477755367028665,0.509,15.69355733030755,1,Noncurrent loans >2x peers
 Hanover Community Bank,NY,1: $1-10B Community/Regional,2.33,0.6276973465187691,1.4164185601810457,0.509,9.75754326191074,1,Noncurrent loans >2x peers
 "Blue Ridge Bank,  National Association",VA,1: $1-10B Community/Regional,2.31,0.011802641290613205,1.6822582185435788,0.509,11.227722914472803,1,Noncurrent loans >2x peers
-"Golden Bank, National Association",TX,1: $1-10B Community/Regional,2.28,1.593490844276205,2.159748510892555,0.509,13.742266393656125,1,Noncurrent loans >2x peers
 Plumas Bank,CA,1: $1-10B Community/Regional,2.28,1.7999963367492402,1.548422420560316,0.509,11.765170263693769,1,Noncurrent loans >2x peers
+"Golden Bank, National Association",TX,1: $1-10B Community/Regional,2.28,1.593490844276205,2.159748510892555,0.509,13.742266393656125,1,Noncurrent loans >2x peers
 Country Bank for Savings,MA,1: $1-10B Community/Regional,2.24,0.8105590677579818,1.143089787353982,0.509,14.838402094866723,1,Noncurrent loans >2x peers
 Regent Bank,OK,1: $1-10B Community/Regional,2.24,0.9384650896936355,2.505156921181713,0.509,9.854262629313599,1,Noncurrent loans >2x peers
 MainStreet Bank,VA,1: $1-10B Community/Regional,2.24,0.9032808376514878,3.1467727211582206,0.509,12.782867616485014,1,Noncurrent loans >2x peers
@@ -158,8 +158,8 @@ Security State Bank & Trust,TX,1: $1-10B Community/Regional,2.18,2.0683176790963
 First Fed Bank,WA,1: $1-10B Community/Regional,2.11,0.19602931313211017,1.2841289293434948,0.509,9.638414749139892,1,Noncurrent loans >2x peers
 Starion Bank,ND,1: $1-10B Community/Regional,2.1,1.1396610361114967,1.4522700384213671,0.509,9.448518840086097,1,Noncurrent loans >2x peers
 Gateway First Bank,OK,1: $1-10B Community/Regional,2.06,1.3306096613631786,4.359762917272223,0.509,14.140658053177987,1,Noncurrent loans >2x peers
-First Financial Bank,AR,1: $1-10B Community/Regional,2.04,2.1808314373116335,3.639799841323551,0.509,11.150536462737671,1,Noncurrent loans >2x peers
 Peoples Bank,IN,1: $1-10B Community/Regional,2.04,0.4310931577664338,1.0996919347507703,0.509,9.314073510405246,1,Noncurrent loans >2x peers
+First Financial Bank,AR,1: $1-10B Community/Regional,2.04,2.1808314373116335,3.639799841323551,0.509,11.150536462737671,1,Noncurrent loans >2x peers
 Beneficial State Bank,CA,1: $1-10B Community/Regional,2.03,0.14056100752098305,2.5330521923046057,0.509,11.223679011807025,1,Noncurrent loans >2x peers
 TruNorth Bank,MA,1: $1-10B Community/Regional,2.02,0.5245890967834501,1.670318727585372,0.509,9.820957443263737,1,Noncurrent loans >2x peers
 Bank of Springfield,IL,1: $1-10B Community/Regional,2.0,1.3019477796146057,1.434185737893881,0.509,9.216791058494797,1,Noncurrent loans >2x peers
@@ -169,14 +169,14 @@ Great Plains National Bank,OK,1: $1-10B Community/Regional,1.93,1.81126206918167
 The Lowell Five Cent Savings Bank,MA,1: $1-10B Community/Regional,1.9,0.7708338820731668,1.0296321590499498,0.509,12.683166315303088,1,Noncurrent loans >2x peers
 Blue Foundry Bank,NJ,1: $1-10B Community/Regional,1.89,-1.3120427053994708,0.8209742427577058,0.509,14.639015993431773,1,Negative ROA
 Security National Bank of Omaha,NE,1: $1-10B Community/Regional,1.86,1.4606778873286193,1.0320723714066433,0.509,10.581200597191382,1,Noncurrent loans >2x peers
-Legacy Bank & Trust Company,MO,1: $1-10B Community/Regional,1.85,1.1740726084057482,1.4661176116921086,0.509,11.905840300645114,1,Noncurrent loans >2x peers
 Cornerstone Bank,ND,1: $1-10B Community/Regional,1.85,1.246445024481687,2.3497324235514183,0.509,9.625572164122522,1,Noncurrent loans >2x peers
 Bank Of Clarke,VA,1: $1-10B Community/Regional,1.85,1.0201260003649844,1.07392091408832,0.509,12.265279015127929,1,Noncurrent loans >2x peers
+Legacy Bank & Trust Company,MO,1: $1-10B Community/Regional,1.85,1.1740726084057482,1.4661176116921086,0.509,11.905840300645114,1,Noncurrent loans >2x peers
 North Easton Savings Bank,MA,1: $1-10B Community/Regional,1.84,0.7645389567483978,1.6369227332012946,0.509,11.192061333425869,1,Noncurrent loans >2x peers
 Wellworth Bank,TN,1: $1-10B Community/Regional,1.84,1.3020113196044576,1.394979086771919,0.509,9.916123009280959,1,Noncurrent loans >2x peers
 Bank of New England,NH,1: $1-10B Community/Regional,1.82,2.1651890896737642,1.7268157514982607,0.509,16.782392375091167,1,Noncurrent loans >2x peers
-CCFBank National Association,WI,1: $1-10B Community/Regional,1.81,0.7362782244606263,2.281858147459817,0.509,11.212738931449945,1,Noncurrent loans >2x peers
 North Dallas Bank & Trust Co.,TX,1: $1-10B Community/Regional,1.81,0.4877332918975847,1.542094165465671,0.509,10.2185142115369,1,Noncurrent loans >2x peers
+CCFBank National Association,WI,1: $1-10B Community/Regional,1.81,0.7362782244606263,2.281858147459817,0.509,11.212738931449945,1,Noncurrent loans >2x peers
 Ives Bank,CT,1: $1-10B Community/Regional,1.73,1.0842116041182812,1.411643704123139,0.509,13.868656860160094,1,Noncurrent loans >2x peers
 Foresight Bank,IL,1: $1-10B Community/Regional,1.71,1.0195896964289994,1.5081240781322904,0.509,11.269895911127707,1,Noncurrent loans >2x peers
 First State Bank of Uvalde,TX,1: $1-10B Community/Regional,1.68,1.1933117624040812,1.2696088497629527,0.509,15.658420871300644,1,Noncurrent loans >2x peers
@@ -185,97 +185,97 @@ The Ohio Valley Bank Company,OH,1: $1-10B Community/Regional,1.65,0.887448199891
 US Metro Bank,CA,1: $1-10B Community/Regional,1.64,1.0102531142951363,1.544736018877514,0.509,10.416449018790932,1,Noncurrent loans >2x peers
 FFB Bank,CA,1: $1-10B Community/Regional,1.62,1.3252084857965447,3.5366389046185955,0.509,12.195208494305339,1,Noncurrent loans >2x peers
 Bluestone Bank,MA,1: $1-10B Community/Regional,1.62,0.30299433718745944,1.040225519148501,0.509,9.52349410758039,1,Noncurrent loans >2x peers
-Troy Bank & Trust Company,AL,1: $1-10B Community/Regional,1.6,1.3650260715590516,1.350291647046314,0.509,12.83068808172287,1,Noncurrent loans >2x peers
-PrimeSouth Bank,GA,1: $1-10B Community/Regional,1.6,1.9167793730680647,1.4820058925500248,0.509,12.025263496342973,1,Noncurrent loans >2x peers
 Landmark National Bank,KS,1: $1-10B Community/Regional,1.6,1.3312581298981043,1.1799092669572968,0.509,10.165335543995072,1,Noncurrent loans >2x peers
+PrimeSouth Bank,GA,1: $1-10B Community/Regional,1.6,1.9167793730680647,1.4820058925500248,0.509,12.025263496342973,1,Noncurrent loans >2x peers
 Bankhometown,MA,1: $1-10B Community/Regional,1.6,0.6494980686110394,2.7415385119771063,0.509,11.239957632199529,1,Noncurrent loans >2x peers
+Troy Bank & Trust Company,AL,1: $1-10B Community/Regional,1.6,1.3650260715590516,1.350291647046314,0.509,12.83068808172287,1,Noncurrent loans >2x peers
 "Transportation Alliance Bank, Inc. d/b/a TAB Bank",UT,1: $1-10B Community/Regional,1.59,1.045150038668629,1.794723010818691,0.509,11.738223656022381,1,Noncurrent loans >2x peers
 Exchange Bank,NE,1: $1-10B Community/Regional,1.58,2.1337288836471675,3.492224448051083,0.509,11.386663051773306,1,Noncurrent loans >2x peers
-Newburyport Five Cents Savings Bank,MA,1: $1-10B Community/Regional,1.57,0.3880784102464184,1.6627602982544762,0.509,9.763896122848998,1,Noncurrent loans >2x peers
 First Keystone Community Bank,PA,1: $1-10B Community/Regional,1.57,0.8130186806127812,2.11368460041817,0.509,9.690011190703498,1,Noncurrent loans >2x peers
+Newburyport Five Cents Savings Bank,MA,1: $1-10B Community/Regional,1.57,0.3880784102464184,1.6627602982544762,0.509,9.763896122848998,1,Noncurrent loans >2x peers
 Quill Bank,UT,1: $1-10B Community/Regional,1.56,5.290861724893368,2.5392354984790235,0.509,14.424261225391158,1,Noncurrent loans >2x peers
 Union Bank,VT,1: $1-10B Community/Regional,1.56,0.8008704642656665,1.349957963942404,0.509,7.819010700667545,1,Noncurrent loans >2x peers
 First Bank Midwest,IN,1: $1-10B Community/Regional,1.55,0.7202805661805262,1.7786921045434692,0.509,10.899691013920302,1,Noncurrent loans >2x peers
-Dieterich Bank,IL,1: $1-10B Community/Regional,1.55,0.6847731720974196,1.8711014751908377,0.509,8.421269414045854,1,Noncurrent loans >2x peers
 Solera National Bank,CO,1: $1-10B Community/Regional,1.55,1.7123856883123931,1.4498423456215206,0.509,8.626875227033006,1,Noncurrent loans >2x peers
+Dieterich Bank,IL,1: $1-10B Community/Regional,1.55,0.6847731720974196,1.8711014751908377,0.509,8.421269414045854,1,Noncurrent loans >2x peers
 The Moody National Bank,TX,1: $1-10B Community/Regional,1.54,0.9598744419787861,1.0326758853110303,0.509,15.8690171464863,1,Noncurrent loans >2x peers
 Peoples State Bank,WI,1: $1-10B Community/Regional,1.5,1.0979902704441467,1.4021411097249037,0.509,10.1707287211249,1,Noncurrent loans >2x peers
 Pathfinder Bank,NY,1: $1-10B Community/Regional,1.49,0.9371304046907941,4.690477654146432,0.509,9.635651765699349,1,Noncurrent loans >2x peers
-Union County Savings Bank,NJ,1: $1-10B Community/Regional,1.48,-1.4499650680881553,0.9081836974060226,0.509,7.772420811298407,1,Negative ROA
 United Bank,AL,1: $1-10B Community/Regional,1.48,1.3074797102223756,1.354869729779644,0.509,15.787100995163414,1,Noncurrent loans >2x peers
+Union County Savings Bank,NJ,1: $1-10B Community/Regional,1.48,-1.4499650680881553,0.9081836974060226,0.509,7.772420811298407,1,Negative ROA
 The Dart Bank,MI,1: $1-10B Community/Regional,1.47,0.9653761128738815,1.7528607768143973,0.509,8.645229968248554,1,Noncurrent loans >2x peers
 Riverview Bank,WA,1: $1-10B Community/Regional,1.47,-0.765013215400554,0.7993238812072453,0.509,10.960625901321626,1,Negative ROA
-Apex Bank,TN,1: $1-10B Community/Regional,1.46,2.193299408238219,2.491173220718047,0.509,14.464414611006355,1,Noncurrent loans >2x peers
 Central Bank Illinois,IL,1: $1-10B Community/Regional,1.46,0.975397631413088,1.852544280833368,0.509,10.39029338992812,1,Noncurrent loans >2x peers
+Apex Bank,TN,1: $1-10B Community/Regional,1.46,2.193299408238219,2.491173220718047,0.509,14.464414611006355,1,Noncurrent loans >2x peers
 Northwest Bank,ID,1: $1-10B Community/Regional,1.45,1.427602083593851,3.790592389390373,0.509,16.565602493440633,1,Noncurrent loans >2x peers
 Citizens Alliance Bank,MN,1: $1-10B Community/Regional,1.44,0.19746608082926598,1.4750372611361164,0.509,9.814621233306113,1,Noncurrent loans >2x peers
 GBank,NV,1: $1-10B Community/Regional,1.43,1.3123801142850569,4.964396284829721,0.509,13.150677068166036,1,Noncurrent loans >2x peers
-Citizens Bank,TN,1: $1-10B Community/Regional,1.42,1.940879440780607,1.1385575058299366,0.509,12.645844412877052,1,Noncurrent loans >2x peers
 "Armed Forces Bank, National Association",KS,1: $1-10B Community/Regional,1.42,1.700175754794076,1.2055243445692885,0.509,13.922165606196335,1,Noncurrent loans >2x peers
-1st Financial Bank USA,SD,1: $1-10B Community/Regional,1.4,0.983084183949169,1.5128229805641806,0.509,16.337010949917495,1,Noncurrent loans >2x peers
+Citizens Bank,TN,1: $1-10B Community/Regional,1.42,1.940879440780607,1.1385575058299366,0.509,12.645844412877052,1,Noncurrent loans >2x peers
 SULLIVAN BANK,MO,1: $1-10B Community/Regional,1.4,1.1291086679844304,1.4519437052666349,0.509,8.754597484350871,1,Noncurrent loans >2x peers
+1st Financial Bank USA,SD,1: $1-10B Community/Regional,1.4,0.983084183949169,1.5128229805641806,0.509,16.337010949917495,1,Noncurrent loans >2x peers
 Ulster Savings Bank,NY,1: $1-10B Community/Regional,1.39,0.5545993728330688,1.5414151289024423,0.509,9.787977360704815,1,Noncurrent loans >2x peers
-Wallis Bank,TX,1: $1-10B Community/Regional,1.38,2.020571216153456,1.426834545355802,0.509,10.09602281917561,1,Noncurrent loans >2x peers
 State Bank of India (California),CA,1: $1-10B Community/Regional,1.38,1.0952673865201519,1.1067094099466048,0.509,14.04850166561888,1,Noncurrent loans >2x peers
+Wallis Bank,TX,1: $1-10B Community/Regional,1.38,2.020571216153456,1.426834545355802,0.509,10.09602281917561,1,Noncurrent loans >2x peers
 First American Bank and Trust,LA,1: $1-10B Community/Regional,1.38,1.1143959260766616,1.2813121761566963,0.509,13.810484447060572,1,Noncurrent loans >2x peers
-County National Bank,MI,1: $1-10B Community/Regional,1.36,1.000844869045298,2.622497911269316,0.509,9.338816532830956,1,Noncurrent loans >2x peers
-First Bank of Alabama,AL,1: $1-10B Community/Regional,1.36,1.308894005399607,3.3986193610531386,0.509,9.81599123929557,1,Noncurrent loans >2x peers
 Century Bank,NM,1: $1-10B Community/Regional,1.36,0.9523179095836437,1.0708901086156417,0.509,10.251842079597493,1,Noncurrent loans >2x peers
+First Bank of Alabama,AL,1: $1-10B Community/Regional,1.36,1.308894005399607,3.3986193610531386,0.509,9.81599123929557,1,Noncurrent loans >2x peers
+County National Bank,MI,1: $1-10B Community/Regional,1.36,1.000844869045298,2.622497911269316,0.509,9.338816532830956,1,Noncurrent loans >2x peers
 Blue Sky Bank,OK,1: $1-10B Community/Regional,1.35,0.9459366844241363,2.0580434493456523,0.509,9.078538812785387,1,Noncurrent loans >2x peers
+Merchants & Marine Bank,MS,1: $1-10B Community/Regional,1.35,2.221234733242572,1.9393282931721336,0.509,8.832803309092574,1,Noncurrent loans >2x peers
 Sabine State Bank and Trust Company,LA,1: $1-10B Community/Regional,1.35,1.7423726115441824,1.660294443979614,0.509,8.276582297485035,1,Noncurrent loans >2x peers
 InBank,NM,1: $1-10B Community/Regional,1.35,1.0830789951910864,1.3117933039772818,0.509,11.455729285457364,1,Noncurrent loans >2x peers
-Merchants & Marine Bank,MS,1: $1-10B Community/Regional,1.35,2.221234733242572,1.9393282931721336,0.509,8.832803309092574,1,Noncurrent loans >2x peers
 Studio Bank,TN,1: $1-10B Community/Regional,1.34,0.7147473826446821,1.0311936565789728,0.509,9.48801867007822,1,Noncurrent loans >2x peers
 "Patriot Bank, National Association",CT,1: $1-10B Community/Regional,1.32,0.6998366212756457,2.7527303030103143,0.509,9.6024992124828,1,Noncurrent loans >2x peers
 Fidelity Co-operative Bank,MA,1: $1-10B Community/Regional,1.31,0.8045692911564561,4.44029563876716,0.509,9.856741487512208,1,Noncurrent loans >2x peers
-Plains Commerce Bank,SD,1: $1-10B Community/Regional,1.3,1.3379929700732334,1.2155374833762798,0.509,10.029599313408099,1,Noncurrent loans >2x peers
-The Richwood Banking Company,OH,1: $1-10B Community/Regional,1.3,1.2604395763303433,1.284824057238394,0.509,10.763781737656565,1,Noncurrent loans >2x peers
 Jonesboro State Bank,LA,1: $1-10B Community/Regional,1.3,1.8960193054971948,1.6436191228763335,0.509,7.665974711918914,1,Noncurrent loans >2x peers
+The Richwood Banking Company,OH,1: $1-10B Community/Regional,1.3,1.2604395763303433,1.284824057238394,0.509,10.763781737656565,1,Noncurrent loans >2x peers
+Plains Commerce Bank,SD,1: $1-10B Community/Regional,1.3,1.3379929700732334,1.2155374833762798,0.509,10.029599313408099,1,Noncurrent loans >2x peers
 Synergy Bank,LA,1: $1-10B Community/Regional,1.28,1.6044379352753528,2.0666059904966043,0.509,11.258611862500453,1,Noncurrent loans >2x peers
 nbkc bank,KS,1: $1-10B Community/Regional,1.24,2.227771010308327,1.446737958686162,0.509,17.130678076625326,1,Noncurrent loans >2x peers
-FIDELITY BANK,LA,1: $1-10B Community/Regional,1.23,0.12703163284978297,1.847738815382945,0.509,20.319002322339447,1,Noncurrent loans >2x peers
 Dayspring Bank,NE,1: $1-10B Community/Regional,1.23,1.058210250494092,1.7298024139142005,0.509,10.714447183616699,1,Noncurrent loans >2x peers
+FIDELITY BANK,LA,1: $1-10B Community/Regional,1.23,0.12703163284978297,1.847738815382945,0.509,20.319002322339447,1,Noncurrent loans >2x peers
+"First Bankers Trust Company, National Association",IL,1: $1-10B Community/Regional,1.22,0.6789267821828032,1.2791158364373783,0.509,9.995171215491732,1,Noncurrent loans >2x peers
 Citizens State Bank,TX,1: $1-10B Community/Regional,1.22,1.6530878160664397,1.9920475934302546,0.509,12.948701568997564,1,Noncurrent loans >2x peers
 MutualOne Bank,MA,1: $1-10B Community/Regional,1.22,0.8829170441622175,5.919405373574457,0.509,21.084993573264782,1,Noncurrent loans >2x peers
-"First Bankers Trust Company, National Association",IL,1: $1-10B Community/Regional,1.22,0.6789267821828032,1.2791158364373783,0.509,9.995171215491732,1,Noncurrent loans >2x peers
 West Michigan Community Bank,MI,1: $1-10B Community/Regional,1.21,1.4554910988874339,1.399700720625672,0.509,9.215715893509865,1,Noncurrent loans >2x peers
 Bank of the Orient,CA,1: $1-10B Community/Regional,1.21,0.7601437581129903,2.1593837600047645,0.509,11.654875456661717,1,Noncurrent loans >2x peers
 Commerce West Bank,CA,1: $1-10B Community/Regional,1.2,1.1971950295209766,1.225035304257931,0.509,11.14471389654862,1,Noncurrent loans >2x peers
 The Dime Bank,PA,1: $1-10B Community/Regional,1.19,1.71258780580396,1.3013562996564896,0.509,11.741616750667385,1,Noncurrent loans >2x peers
 Helm Bank USA,FL,1: $1-10B Community/Regional,1.19,1.0892330835158832,1.6456370908862878,0.509,11.184590576720515,1,Noncurrent loans >2x peers
-Metro Bank,AL,1: $1-10B Community/Regional,1.18,1.4126339885588461,1.1779714789188716,0.509,14.68410852062221,1,Noncurrent loans >2x peers
 PriorityOne Bank,MS,1: $1-10B Community/Regional,1.18,2.0331576830523614,1.5808405397582685,0.509,11.889788194216248,1,Noncurrent loans >2x peers
+Metro Bank,AL,1: $1-10B Community/Regional,1.18,1.4126339885588461,1.1779714789188716,0.509,14.68410852062221,1,Noncurrent loans >2x peers
 First General Bank,CA,1: $1-10B Community/Regional,1.17,2.3114919527155586,1.8283971341272909,0.509,26.29498040886008,1,Noncurrent loans >2x peers
 Pointbank,TX,1: $1-10B Community/Regional,1.16,0.9538271553876196,1.765156940372117,0.509,8.991384591657063,1,Noncurrent loans >2x peers
 Bank of Washington,MO,1: $1-10B Community/Regional,1.15,0.8642041390317604,3.4984061986017245,0.509,12.473506349775349,1,Noncurrent loans >2x peers
 First Arkansas Bank and Trust,AR,1: $1-10B Community/Regional,1.14,1.611626569281174,1.627533412812951,0.509,10.73635929025652,1,Noncurrent loans >2x peers
 The Bank of Fayette County,TN,1: $1-10B Community/Regional,1.14,0.98297165437406,1.0856604621790273,0.509,9.587346391380587,1,Noncurrent loans >2x peers
-The Evangeline Bank and Trust Company,LA,1: $1-10B Community/Regional,1.11,1.7947393348380518,1.2438083808122715,0.509,14.224223779208309,1,Noncurrent loans >2x peers
-"Liberty Savings Bank, F.S.B.",OH,1: $1-10B Community/Regional,1.11,0.3630882422885627,1.4202019011202205,0.509,9.613861492588665,1,Noncurrent loans >2x peers
+"First National Bank, Ames, Iowa",IA,1: $1-10B Community/Regional,1.11,1.231976324030421,1.4068774967616726,0.509,9.864433219099881,1,Noncurrent loans >2x peers
 St. Louis Bank,MO,1: $1-10B Community/Regional,1.11,0.9208712668076099,2.8668323273790075,0.509,8.81046758017922,1,Noncurrent loans >2x peers
 Bank of Labor,KS,1: $1-10B Community/Regional,1.11,0.9098887802012977,3.148982224457223,0.509,7.986686557780284,1,Noncurrent loans >2x peers
+The Evangeline Bank and Trust Company,LA,1: $1-10B Community/Regional,1.11,1.7947393348380518,1.2438083808122715,0.509,14.224223779208309,1,Noncurrent loans >2x peers
 TrailWest Bank,MT,1: $1-10B Community/Regional,1.11,1.7601188060192015,1.8160476923317466,0.509,8.617865267128924,1,Noncurrent loans >2x peers
-"First National Bank, Ames, Iowa",IA,1: $1-10B Community/Regional,1.11,1.231976324030421,1.4068774967616726,0.509,9.864433219099881,1,Noncurrent loans >2x peers
+"Liberty Savings Bank, F.S.B.",OH,1: $1-10B Community/Regional,1.11,0.3630882422885627,1.4202019011202205,0.509,9.613861492588665,1,Noncurrent loans >2x peers
 "T Bank, National Association",TX,1: $1-10B Community/Regional,1.1,1.2199654058738436,2.888490989307622,0.509,10.665274749781792,1,Noncurrent loans >2x peers
+Generations Bank,AR,1: $1-10B Community/Regional,1.09,1.1935884592514414,1.5054032758827611,0.509,11.514871943247234,1,Noncurrent loans >2x peers
 Pioneer Bank,NM,1: $1-10B Community/Regional,1.09,2.584451053423047,1.7136860811174468,0.509,12.31683734673634,1,Noncurrent loans >2x peers
 Prime Alliance Bank,UT,1: $1-10B Community/Regional,1.09,3.4067174368719937,1.5984283760904157,0.509,11.529910716785729,1,Noncurrent loans >2x peers
-Generations Bank,AR,1: $1-10B Community/Regional,1.09,1.1935884592514414,1.5054032758827611,0.509,11.514871943247234,1,Noncurrent loans >2x peers
 Amerasia Bank,NY,1: $1-10B Community/Regional,1.08,1.7912021384118904,1.5856190473872396,0.509,15.120567295962495,1,Noncurrent loans >2x peers
-MountainOne Bank,MA,1: $1-10B Community/Regional,1.08,1.2161617550118873,1.0553840601273727,0.509,14.745449031120392,1,Noncurrent loans >2x peers
-The First National Bank of Bemidji,MN,1: $1-10B Community/Regional,1.08,1.4220825292405626,1.990970185572347,0.509,11.14102017893799,1,Noncurrent loans >2x peers
 The Federal Savings Bank,IL,1: $1-10B Community/Regional,1.08,0.05289834276180423,2.692323182046773,0.509,15.855920735719012,1,Noncurrent loans >2x peers
+MountainOne Bank,MA,1: $1-10B Community/Regional,1.08,1.2161617550118873,1.0553840601273727,0.509,14.745449031120392,1,Noncurrent loans >2x peers
 The First National Bank of McGregor,TX,1: $1-10B Community/Regional,1.08,1.089600776426695,2.7233115468409586,0.509,9.54590438824984,1,Noncurrent loans >2x peers
-Crescent Bank,LA,1: $1-10B Community/Regional,1.07,8.336080647785522,1.279446925552214,0.509,15.009553635869993,1,Noncurrent loans >2x peers
+The First National Bank of Bemidji,MN,1: $1-10B Community/Regional,1.08,1.4220825292405626,1.990970185572347,0.509,11.14102017893799,1,Noncurrent loans >2x peers
 "Brooks Bank, National Association",OK,1: $1-10B Community/Regional,1.07,2.0986076292622684,2.610187757722602,0.509,13.312433671363715,1,Noncurrent loans >2x peers
+Crescent Bank,LA,1: $1-10B Community/Regional,1.07,8.336080647785522,1.279446925552214,0.509,15.009553635869993,1,Noncurrent loans >2x peers
+Centennial Bank,TN,1: $1-10B Community/Regional,1.06,0.9840674789128397,1.2598465091225208,0.509,9.821456398245259,1,Noncurrent loans >2x peers
 CommerceOne Bank,AL,1: $1-10B Community/Regional,1.06,-0.1614620907623072,0.0,0.509,9.014557555189484,1,Negative ROA
 Border Bank,ND,1: $1-10B Community/Regional,1.06,1.306148684890688,1.0689842597419885,0.509,9.070499606461526,1,Noncurrent loans >2x peers
-Centennial Bank,TN,1: $1-10B Community/Regional,1.06,0.9840674789128397,1.2598465091225208,0.509,9.821456398245259,1,Noncurrent loans >2x peers
 FirsTier Bank,NE,1: $1-10B Community/Regional,1.05,0.767256098068271,4.512732378297853,0.509,11.430603657564676,1,Noncurrent loans >2x peers
+First Southern Bank,IL,1: $1-10B Community/Regional,1.04,1.3709780250438377,2.9971800397448156,0.509,10.852888086642599,1,Noncurrent loans >2x peers
 Security Financial Bank,WI,1: $1-10B Community/Regional,1.04,1.6368037550203791,1.4377972597679312,0.509,9.668487571889223,1,Noncurrent loans >2x peers
 The Freedom Bank of Virginia,VA,1: $1-10B Community/Regional,1.04,0.44537201214547173,3.263774737161629,0.509,11.059126629223988,1,Noncurrent loans >2x peers
-First Southern Bank,IL,1: $1-10B Community/Regional,1.04,1.3709780250438377,2.9971800397448156,0.509,10.852888086642599,1,Noncurrent loans >2x peers
-First Central Savings Bank,NY,1: $1-10B Community/Regional,1.03,0.9711513509471805,1.186253786213162,0.509,10.29878388484298,1,Noncurrent loans >2x peers
 R Bank,TX,1: $1-10B Community/Regional,1.03,0.7242130472999656,1.545392246951267,0.509,9.010771074647959,1,Noncurrent loans >2x peers
+First Central Savings Bank,NY,1: $1-10B Community/Regional,1.03,0.9711513509471805,1.186253786213162,0.509,10.29878388484298,1,Noncurrent loans >2x peers
 Walden Savings Bank,NY,1: $1-10B Community/Regional,1.02,1.006653366452373,1.0526830136152183,0.509,10.18819019623421,1,Noncurrent loans >2x peers
-Adirondack Bank,NY,1: $1-10B Community/Regional,1.01,-2.117984097366266,0.7193593555382608,0.509,7.2519126689452165,1,Negative ROA
 "Presidential Bank, FSB",MD,1: $1-10B Community/Regional,1.01,0.4885664705326675,1.638145180026194,0.509,9.633832027867829,1,Noncurrent loans >2x peers
+Adirondack Bank,NY,1: $1-10B Community/Regional,1.01,-2.117984097366266,0.7193593555382608,0.509,7.2519126689452165,1,Negative ROA
