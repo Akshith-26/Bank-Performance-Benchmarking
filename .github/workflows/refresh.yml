@@ -1,0 +1,31 @@
+# Re-runs the pipeline on the 5th of every month and commits updated results.
+# Also runnable on demand: GitHub repo -> Actions -> "Refresh FDIC data" -> Run workflow.
+name: Refresh FDIC data
+
+on:
+  schedule:
+    - cron: "0 12 5 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run pipeline
+        run: python src/run_pipeline.py
+      - name: Commit updated results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add outputs images README.md
+          git diff --cached --quiet || git commit -m "Monthly FDIC data refresh"
+          git push
